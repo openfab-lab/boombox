@@ -12,11 +12,12 @@
 * and of course, about how to combine all these together. 
 
 ### Methodo:
-- use english for github, easy understanding fro every contributor
+- Github will be use to share all the step, documentation, part list, etc...    
+use english for github, easy understanding fro every contributor
 - slack for chat: openfab-lab #audiophilie
 https://openfablab.slack.com/messages/audiophilie/
 - bookmarks and inspirationnal picture / references on pinterest, board boombox
 https://www.pinterest.com/openfab/projet-boombox/
-- Github will be use to share all the step, documentation, part list, etc... 
+
 
 ? about trello
