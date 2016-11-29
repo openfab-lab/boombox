@@ -5,7 +5,9 @@
 * about sound, understand how speaker + amp + box works together.
 * about power, understand how to use voltage regulator and how to charge power bank.
 * about woodworking, how to assemble the right way a wood box for speaker.
+* about 3D modeling, how to design and size the system with 3D tool like Fusion360. 
 * about lasercut, how to prepare design, files and how to use the laser cutter.
+* about CNC milling, how to prepare design, files and Gcode for machining parts on a cnc.
 * about concrete, how to choose the right kind of material and additive for the right use. 
 * about molding, how to create reusable mold with silicon or something else to use with concrete.  
 * about connectivity, how to use arduino and bluetooth to create a mesh and expand possibility.
@@ -20,4 +22,5 @@ https://openfablab.slack.com/messages/audiophilie/
 https://www.pinterest.com/openfab/projet-boombox/
 
 
+Com. about the workshop via https://www.meetup.com/FabCity/    
 ? about trello
